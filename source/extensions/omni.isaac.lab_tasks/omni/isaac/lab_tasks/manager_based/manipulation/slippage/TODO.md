@@ -1,0 +1,8 @@
+- [x] add no velocity obs group
+- [ ] domain randomization in policy observation group
+- [ ] rewards vs obs: ee_frame vs robot.data vs object pos in robot root frame
+- [ ] implement inter finger distance
+- [ ] termination:object dropping : test two options
+- [ ] check damping and stiffness values (as these are randomized, range should make sense)
+- [ ] check if reset terms are order conservative (guess so)
+- [ ] "end-effector sensor" ? (just to have a reference for marker or mdp)
